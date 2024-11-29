@@ -60,7 +60,7 @@ Take a look to this
 
 https://docs.aws.amazon.com/AmazonS3/latest/userguide/VirtualHosting.html#virtual-hosted-style-access
 
-# Task 2 - Being the hacker  (10 Pints)
+# Task 2 - Being the hacker  (200 Points)
 
 ## Task Description:
 
@@ -115,7 +115,7 @@ Click on “View All Checks”
 
 ![image](https://github.com/alejogaci/CASRM-WORKSHOP/assets/37232597/fd4e1fff-e9d0-4d12-8886-013f8e81f699)
 
-Then, use filter checks to look for AWS EC2 service configuration failures
+Then, use filter checks to look for AWS S3 service configuration failures
 
 ![image](https://github.com/alejogaci/CASRM-WORKSHOP/assets/37232597/06b2af9d-7447-4b03-ad35-0158f9ff722c)
 

@@ -60,7 +60,7 @@ Take a look to this
 
 https://docs.aws.amazon.com/AmazonS3/latest/userguide/VirtualHosting.html#virtual-hosted-style-access
 
-# Task 2 - Being the hacker  (200 Points)
+# Task 2 - Being the hacker  (20 Points)
 
 ## Task Description:
 

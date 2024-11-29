@@ -21,7 +21,7 @@ Just bring your laptop and the desire to learn new things
 
 As a cloud cybersecurity analyst, you have been informed of a possible company data breach. The AWS team indicates for sure that there is a public S3 bucket, but that there are most likely more AWS services involved since they have bad security practices. Your task as responsible for the incident is to replicate the attack starting from the public S3 bucket, verify which other AWs services are involved. Use CASRM to verify the visual that it can give  of the infrastructure and identify these failures from the tool, also generate some remediations to mitigate the attack.
 
-# Task 1 - From the beginning  (30 Points)
+# Task 1 - From the beginning  (60 Points)
 
 ## Task Description:
 
